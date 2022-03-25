@@ -12,7 +12,7 @@
 
 ---
 
-You can find me on [![LinkedIn][1.1]][1].
+Connect with me on &nbsp;[![LinkedIn][1.1]][1]
 
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 

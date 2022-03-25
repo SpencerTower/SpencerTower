@@ -1,18 +1,3 @@
-<!--
-**SpencerTower/SpencerTower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # SpencerTower
 
 ![Spencer’s Stats](https://github-readme-stats.vercel.app/api?username=SpencerTower&show_icons=true&theme=dark)
@@ -29,6 +14,6 @@ Here are some ideas to get you started:
 
 You can find me on [![LinkedIn][1.1]][1].
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/SpencerTower/

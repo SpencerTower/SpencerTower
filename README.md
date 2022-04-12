@@ -1,5 +1,6 @@
-![Spencer’s Stats](https://github-readme-stats.vercel.app/api?username=SpencerTower&show_icons=true&theme=dark)
-
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpencerTower&show_icons=true&theme=dark"/>
+<br/><br/>
 
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
 ![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff)
@@ -9,8 +10,11 @@
 
 ---
 
-Connect with me on &nbsp;[![LinkedIn][1.1]][1]
+<p>Connect with me!</p>
+
+[![LinkedIn][1.1]][1]
 
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/SpencerTower/
+</div>

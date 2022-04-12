@@ -1,4 +1,3 @@
-<p align=center>
 ![Spencer’s Stats](https://github-readme-stats.vercel.app/api?username=SpencerTower&show_icons=true&theme=dark)
 
 
@@ -15,4 +14,3 @@ Connect with me on &nbsp;[![LinkedIn][1.1]][1]
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/SpencerTower/
-</p>

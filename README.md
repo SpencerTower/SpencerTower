@@ -1,6 +1,5 @@
 ![Spencer’s Stats](https://github-readme-stats.vercel.app/api?username=SpencerTower&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerTower)](https://github.com/SpencerTower/github-readme-stats)
 
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
 ![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff)

@@ -1,5 +1,4 @@
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SpencerTower&show_icons=true&theme=dark"/>
 <br/><br/>
 
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
